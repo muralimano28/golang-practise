@@ -1,9 +1,9 @@
 package hello
 
 import (
-    "fmt"
+	"fmt"
 )
 
 func main() {
-    fmt.Println("Hello, golang! I am printed from main function of hello.go")
+	fmt.Println("Hello, golang! I am printed from main function of hello.go")
 }

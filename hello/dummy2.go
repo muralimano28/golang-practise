@@ -1,9 +1,9 @@
 package hello
 
 import (
-    "fmt"
+	"fmt"
 )
 
 func Dummy2() {
-    fmt.Println("I am printed from file dummy2.go of package hello")
+	fmt.Println("I am printed from file dummy2.go of package hello")
 }
